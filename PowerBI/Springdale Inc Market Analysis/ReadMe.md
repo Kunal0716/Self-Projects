@@ -35,7 +35,7 @@ The dataset consists of multiple tables, and each table captures specific inform
   19. Discount Offered (USD)	Discount offered to the customer at the time of purchase.
   20. Response to Campaign	Whether the customer responded to the campaign (Yes or No).
 
-### 2. Location Mapping Table
+### 2. Location Table
   1. City:	City name.
   2. State:	State corresponding to the city.
 
