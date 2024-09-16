@@ -49,11 +49,11 @@ An IPYNB file is provided with the code used to create and manipulate the datase
 The dashboard accompanying this dataset was created in Power BI to visualize KPIs such as revenue, customer retention, and campaign performance.
 
 ## KPI
-Total Revenue: Sum of Revenue (USD) over time.
-Customer Lifetime Value (CLV): Track CLV across different customer segments.
-Customer Retention Rate: Percentage of retained customers (Retention Rate).
-Campaign Effectiveness: Measure the response rate by comparing the number of Response to Campaign "Yes" vs. "No".
-Satisfaction Score Distribution: Distribution of Satisfaction Score (0-100) across customers.
-Revenue by Product Category: Bar chart showing revenue contributions from different Product Category.
-Revenue by Campaign Source: Pie chart of revenue contribution by different Campaign Source.
-Customer Feedback: Average Feedback Rating across different campaigns or customer segments.
+  1. Total Revenue: Sum of Revenue (USD) over time.
+  2. Customer Lifetime Value (CLV): Track CLV across different customer segments.
+  3. Customer Retention Rate: Percentage of retained customers (Retention Rate).
+  4. Campaign Effectiveness: Measure the response rate by comparing the number of Response to Campaign "Yes" vs. "No".
+  5. Satisfaction Score Distribution: Distribution of Satisfaction Score (0-100) across customers.
+  6. Revenue by Product Category: Bar chart showing revenue contributions from different Product Category.
+  7. Revenue by Campaign Source: Pie chart of revenue contribution by different Campaign Source.
+  8. Customer Feedback: Average Feedback Rating across different campaigns or customer segments.
