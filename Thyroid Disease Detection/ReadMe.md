@@ -130,3 +130,7 @@ The dataset includes the following attributes:
 ## Acknowledgments
 This project is based on the Thyroid Disease Dataset from the UCI Machine Learning Repository.
 https://archive.ics.uci.edu/dataset/102/thyroid+disease
+
+## License
+This project is licensed under the MIT License. See the [License](License) file for details.
+
