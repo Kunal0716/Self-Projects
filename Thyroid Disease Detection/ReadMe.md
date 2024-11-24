@@ -125,5 +125,8 @@ The dataset includes the following attributes:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kunal0716/Self-Projects.git
 
+## Acknowledgments
+This project is based on the Thyroid Disease Dataset from the UCI Machine Learning Repository.
+https://archive.ics.uci.edu/dataset/102/thyroid+disease
