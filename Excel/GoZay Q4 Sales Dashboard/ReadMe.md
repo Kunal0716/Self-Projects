@@ -41,6 +41,7 @@ The dashboard was designed to provide the following insights:
 - **Microsoft Excel**
 - **PivotTables & PivotCharts**
 - **Data Validation & Filtering**
+- **Data Normalization**
 - **Formulas & Functions (SUM, IF, COUNTIF, etc.)**
 
 ## 📈 Business Impact
