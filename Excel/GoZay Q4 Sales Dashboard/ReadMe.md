@@ -37,7 +37,7 @@ The dashboard was designed to provide the following insights:
 - **PivotTables for Quick Insights**: Summarize key metrics efficiently.
 - **User-Friendly Dashboard Layout**: Well-structured and visually appealing dashboard for easy navigation.
 
-##🛠️ Tools Used
+## 🛠️ Tools Used
 - **Microsoft Excel**
 - **PivotTables & PivotCharts**
 - **Data Validation & Filtering**
